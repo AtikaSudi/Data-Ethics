@@ -1,1 +1,1 @@
-# Data-Ethics
+## This repository contains coursework completed as part of the "Data Ethics & Applied Analytics" program. The program focused on a diverse range of topics to provide a well-rounded understanding of data analytics and its ethical implications.
